@@ -3,11 +3,11 @@ Recolección de datos de twitter de algun tema de interes para posterior guardar
 #
 INTEGRANTES:
 
-Jhoel Amagua
+- Jhoel Amagua
 
-David Curipoma
+- David Curipoma
 
-Wendy Soto
+- Wendy Soto
 
 
 Creación del Clouster en MongoAtlas 
