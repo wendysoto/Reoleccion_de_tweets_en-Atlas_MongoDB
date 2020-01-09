@@ -1,5 +1,5 @@
 # Recolección_de_tweets_en_Atlas_MongoDB
-Recolección de datos de twitter de algun tema de interes para posterior guardar los datos en la Nube Atlas Mongo
+Recolección de datos de twitter de cualquier tema de interès para posterior guardar los datos en la Nube Atlas Mongo
 #
 INTEGRANTES:
 
